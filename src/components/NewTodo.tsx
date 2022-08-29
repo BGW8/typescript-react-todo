@@ -1,4 +1,5 @@
 import React, { useRef } from "react";
+//TODO: use Tailwind CSS instead of CSS classes
 import "./NewTodo.css";
 
 type NewTodoProps = {
